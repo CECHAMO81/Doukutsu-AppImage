@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Doukutsu-rs
+Exec=../../bin/run.sh
+Comment=Doukutsu-rs compreso en appimage
+Icon=Doukutsu
+Type=Application
+Categories=Game;
